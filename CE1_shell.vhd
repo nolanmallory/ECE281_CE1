@@ -47,6 +47,6 @@ D <= A and B_NOT;
 E <= B and C;
 F <= D or E;
 
--- ths is a comment
+-- first comment
 end Behavioral;
 
